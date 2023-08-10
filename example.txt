@@ -1,5 +1,0 @@
-This is an example file
-
-This is a new line
-
-Here are some unnecessary changes.
